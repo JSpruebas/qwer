@@ -1,0 +1,31 @@
+{
+  "name": "qwe",
+  "version": "1.0.0",
+  "description": "cosa",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./"
+  },
+  "dependencies": {
+    "@ethersproject/address": "^5.0.5",
+    "@ethersproject/contracts": "^5.0.5",
+    "@ethersproject/hash": "^5.0.6",
+    "@ethersproject/networks": "^5.0.4",
+    "@ethersproject/providers": "^5.0.14",
+    "@ethersproject/solidity": "^5.0.5",
+    "@pancakeswap-libs/sdk": "^1.0.1",
+    "bignumber.js": "^9.0.1",
+    "bscscan-api": "1.0.1",
+    "node-fetch": "^2.6.1",
+    "uuid": "3.4.0",
+    "web3": "1.3.3",
+    "web3-hdwallet-provider": "1.0.4-fix2"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0"
+  },
+  "keywords": [
+    "javascript",
+    "starter"
+  ]
+}
